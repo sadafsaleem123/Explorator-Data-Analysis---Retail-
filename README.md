@@ -1,1 +1,1 @@
-# Explorator-Data-Analysis---Retail-
+# Exploratory Data Analysis-Retail-
